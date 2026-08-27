@@ -30,10 +30,10 @@
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=AVS1508&amp;layout=compact&amp;langs_count=8&amp;theme=algolia">
 </a>
 </p> -->
-<h3 id="-connect-with-me">🤝🏻 &nbsp;Connect with Me</h3>
+<!-- <h3 id="-connect-with-me">🤝🏻 &nbsp;Connect with Me</h3>
 <p align="center">
 <a href="https://amanullah1.netlify.app/"><img src="https://img.shields.io/badge/-adityavsingh.com-3423A6?style=flat&amp;logo=Google-Chrome&amp;logoColor=white"></a>
 <a href="https://www.linkedin.com/in/mohd-amanullah-3193202b5/"><img src="https://img.shields.io/badge/-Aditya%20Vikram%20Singh-0077B5?style=flat&amp;logo=Linkedin&amp;logoColor=white"></a>
 <a href="mailto:amanullah786.net@gmail.com"><img src="https://img.shields.io/badge/-avsingh@umass.edu-D14836?style=flat&amp;logo=Gmail&amp;logoColor=white"></a>
-</p>
+</p> -->
 <hr>
