@@ -1,4 +1,4 @@
-  <p><img src="<img width="1600" height="600" alt="image" src="https://github.com/user-attachments/assets/98448736-5736-49aa-b918-e52a4ebc3e75" />
+  <p><img src="https://github.com/user-attachments/assets/98448736-5736-49aa-b918-e52a4ebc3e75" />
 " alt="Md Amanullah Banner"></p>
 <p><img alt="Night Coding" src="./assets/Hand%20Wave.gif" width="40" align="left"></p><h2>Hey there! I’m Amanullah</h2><p></p>
 <!-- ## 👋 &nbsp;Hey there! I'm Aditya -->
