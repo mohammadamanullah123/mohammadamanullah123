@@ -1,4 +1,5 @@
-  <p><img src="https://chatgpt.com/backend-api/estuary/content?id=file_0000000044e482079d8ae53da8ff9bbf&ts=496622&p=fs&cid=1&sig=ba1c1fb358ac038052354991787cfa02ffa12c8dd0a03fd58715ac44b116e35f&v=0" alt="Md Amanullah Banner"></p>
+  <p><img src="<img width="1600" height="600" alt="image" src="https://github.com/user-attachments/assets/98448736-5736-49aa-b918-e52a4ebc3e75" />
+" alt="Md Amanullah Banner"></p>
 <p><img alt="Night Coding" src="./assets/Hand%20Wave.gif" width="40" align="left"></p><h2>Hey there! I’m Amanullah</h2><p></p>
 <!-- ## 👋 &nbsp;Hey there! I'm Aditya -->
 <h3 id="-about-me">👨🏻‍💻 &nbsp;About Me</h3>
