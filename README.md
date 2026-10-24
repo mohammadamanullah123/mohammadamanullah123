@@ -122,15 +122,7 @@ status:     Open to feedback, suggestions & collaboration
 <img src="https://raw.githubusercontent.com/mohammadamanullah123/mohammadamanullah123/main/divider.svg" width="100%" alt="" />
 
 <!-- ═══════════════════════ FUN / GOALS ═══════════════════════ -->
-## `> cat ./goals.txt`
 
-
-[✔] Build a strong foundation in Computer Science
-[▶] Dive deeper into Artificial Intelligence & Machine Learning
-[▶] Learn Systems Design and build scalable software
-[▶] Contribute to open-source projects
-[ ] Land an internship at a great tech company
-[ ] Ship a product people actually use
 
 
 <div align="center">
