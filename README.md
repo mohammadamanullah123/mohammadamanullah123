@@ -1,7 +1,7 @@
 <!-- ═══════════════════════ HEADER ═══════════════════════ -->
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/main/assets/banner.svg" width="100%" alt="Amanullah banner" />
+<img src="https://raw.githubusercontent.com/mohammadamanullah123/mohammadamanullah123/main/banner.svg" width="100%" alt="Amanullah banner" />
 
 <a href="https://github.com/YOUR_USERNAME">
   <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=600&size=22&pause=1000&color=00F5FF&center=true&vCenter=true&width=700&height=50&lines=%3E+Hello+World%2C+I'm+Amanullah+%F0%9F%91%8B;%3E+CSE+Student+%7C+Gulzar+Group+of+Institutions;%3E+Exploring+AI+%26+Systems+Design;%3E+Building+quick+hacks+%26+software+solutions;%3E+Always+learning%2C+always+shipping+%F0%9F%9A%80" alt="Typing SVG" />
