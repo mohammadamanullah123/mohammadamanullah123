@@ -27,7 +27,6 @@
 <!-- ═══════════════════════ ABOUT ═══════════════════════ -->
 ## `> whoami`
 
-```yaml
 name:       Amanullah
 role:       Computer Science & Engineering Student
 university: Gulzar Group of Institutions
@@ -35,7 +34,6 @@ focus:      [Artificial Intelligence, Systems Design, Software Development]
 hobbies:    [History, Geography, Political Science]
 mission:    Explore new tech, build software solutions & quick hacks
 status:     Open to feedback, suggestions & collaboration
-```
 
 <img src="https://raw.githubusercontent.com/mohammadamanullah123/mohammadamanullah123/main/divider.svg" width="100%" alt="" />
 
@@ -89,35 +87,35 @@ status:     Open to feedback, suggestions & collaboration
 <div align="center">
 
 <!-- 👉 Replace REPO_NAME_1 / REPO_NAME_2 / ... with your real repository names -->
-<a href="https://github.com/mohammadamanullah123/mohammadamanullah123"><img src="https://github-readme-stats.vercel.app/api/pin/?username=YOUR_USERNAME&repo=REPO_NAME_1&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00f5ff&icon_color=ff00e6&text_color=c9d1d9" /></a>
-<a href="https://github.com/YOUR_USERNAME/REPO_NAME_2"><img src="https://github-readme-stats.vercel.app/api/pin/?username=YOUR_USERNAME&repo=REPO_NAME_2&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00f5ff&icon_color=ff00e6&text_color=c9d1d9" /></a>
+<a href="[https://github.com/mohammadamanullah123/mohammadamanullah123](https://github.com/mohammadamanullah123/India-in-the-world)"><img src="https://github-readme-stats.vercel.app/api/pin/?username=mohammadamanullah123&repo=India-in-the-world&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00f5ff&icon_color=ff00e6&text_color=c9d1d9" /></a>
+<a href="[https://github.com/YOUR_USERNAME/REPO_NAME_2](https://github.com/mohammadamanullah123/Advanced_Qr_Code_Fraud_Detection)"><img src="https://github-readme-stats.vercel.app/api/pin/?username=mohammadamanullah123&repo=Advanced_Qr_Code_Fraud_Detection&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00f5ff&icon_color=ff00e6&text_color=c9d1d9" /></a>
 
-<a href="https://github.com/YOUR_USERNAME/REPO_NAME_3"><img src="https://github-readme-stats.vercel.app/api/pin/?username=YOUR_USERNAME&repo=REPO_NAME_3&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00f5ff&icon_color=ff00e6&text_color=c9d1d9" /></a>
-<a href="https://github.com/YOUR_USERNAME/REPO_NAME_4"><img src="https://github-readme-stats.vercel.app/api/pin/?username=YOUR_USERNAME&repo=REPO_NAME_4&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00f5ff&icon_color=ff00e6&text_color=c9d1d9" /></a>
+<a href="[https://github.com/YOUR_USERNAME/REPO_NAME_3](https://github.com/mohammadamanullah123/hostel_management_project)"><img src="https://github-readme-stats.vercel.app/api/pin/?username=mohammadamanullah123&repo=hostel_management_project&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00f5ff&icon_color=ff00e6&text_color=c9d1d9" /></a>
+<a href="[https://github.com/YOUR_USERNAME/REPO_NAME_4](https://github.com/mohammadamanullah123/healthcare-chatbot)"><img src="https://github-readme-stats.vercel.app/api/pin/?username=mohammadamanullah123&repo=healthcare-chatbot&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00f5ff&icon_color=ff00e6&text_color=c9d1d9" /></a>
 
 </div>
 
-<img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/main/assets/divider.svg" width="100%" alt="" />
+<img src="https://raw.githubusercontent.com/mohammadamanullah123/mohammadamanullah123/main/divider.svg" width="100%" alt="" />
 
 <!-- ═══════════════════════ STATS ═══════════════════════ -->
 ## `> cat ./github-stats`
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00f5ff&icon_color=ff00e6&text_color=c9d1d9&include_all_commits=true&count_private=true" />
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00f5ff&text_color=c9d1d9" />
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=mohammadamanullah123&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00f5ff&icon_color=ff00e6&text_color=c9d1d9&include_all_commits=true&count_private=true" />
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohammadamanullah123&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00f5ff&text_color=c9d1d9" />
 
 <br/>
 
-<img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight&hide_border=true&background=0d1117&ring=ff00e6&fire=00f5ff&currStreakLabel=00f5ff" height="160" />
+<img src="https://streak-stats.demolab.com?user=mohammadamanullah123&theme=tokyonight&hide_border=true&background=0d1117&ring=ff00e6&fire=00f5ff&currStreakLabel=00f5ff" height="160" />
 
 <br/><br/>
 
-<img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10&column=7" />
+<img src="https://github-profile-trophy.vercel.app/?username=mohammadamanullah123&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10&column=7" />
 
 <br/><br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=00f5ff&line=ff00e6&point=ffffff" width="95%" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=mohammadamanullah123&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=00f5ff&line=ff00e6&point=ffffff" width="95%" />
 
 </div>
 
@@ -126,14 +124,14 @@ status:     Open to feedback, suggestions & collaboration
 <!-- ═══════════════════════ FUN / GOALS ═══════════════════════ -->
 ## `> cat ./goals.txt`
 
-```text
+
 [✔] Build a strong foundation in Computer Science
 [▶] Dive deeper into Artificial Intelligence & Machine Learning
 [▶] Learn Systems Design and build scalable software
 [▶] Contribute to open-source projects
 [ ] Land an internship at a great tech company
 [ ] Ship a product people actually use
-```
+
 
 <div align="center">
 
