@@ -22,7 +22,7 @@
 
 </div>
 
-<img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/main/assets/divider.svg" width="100%" alt="" />
+<img src="https://raw.githubusercontent.com/mohammadamanullah123/mohammadamanullah123/main/divider.svg" width="100%" alt="" />
 
 <!-- ═══════════════════════ ABOUT ═══════════════════════ -->
 ## `> whoami`
@@ -37,7 +37,7 @@ mission:    Explore new tech, build software solutions & quick hacks
 status:     Open to feedback, suggestions & collaboration
 ```
 
-<img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/main/assets/divider.svg" width="100%" alt="" />
+<img src="https://raw.githubusercontent.com/mohammadamanullah123/mohammadamanullah123/main/divider.svg" width="100%" alt="" />
 
 <!-- ═══════════════════════ CURRENT STATUS ═══════════════════════ -->
 ## `> status --current`
@@ -51,7 +51,7 @@ status:     Open to feedback, suggestions & collaboration
 | 🤝 **Open to** | Collaboration, internships, feedback & suggestions |
 | 📬 **Reach me** | [amanullah786.net@gmail.com](mailto:amanullah786.net@gmail.com) |
 
-<img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/main/assets/divider.svg" width="100%" alt="" />
+<img src="https://raw.githubusercontent.com/mohammadamanullah123/mohammadamanullah123/main/divider.svg" width="100%" alt="" />
 
 <!-- ═══════════════════════ TECH STACK ═══════════════════════ -->
 ## `> ls ./tech-stack`
@@ -81,7 +81,7 @@ status:     Open to feedback, suggestions & collaboration
 
 </div>
 
-<img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/main/assets/divider.svg" width="100%" alt="" />
+<img src="https://raw.githubusercontent.com/mohammadamanullah123/mohammadamanullah123/main/divider.svg" width="100%" alt="" />
 
 <!-- ═══════════════════════ PROJECTS ═══════════════════════ -->
 ## `> ls ./projects`
@@ -89,7 +89,7 @@ status:     Open to feedback, suggestions & collaboration
 <div align="center">
 
 <!-- 👉 Replace REPO_NAME_1 / REPO_NAME_2 / ... with your real repository names -->
-<a href="https://github.com/YOUR_USERNAME/REPO_NAME_1"><img src="https://github-readme-stats.vercel.app/api/pin/?username=YOUR_USERNAME&repo=REPO_NAME_1&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00f5ff&icon_color=ff00e6&text_color=c9d1d9" /></a>
+<a href="https://github.com/mohammadamanullah123/mohammadamanullah123"><img src="https://github-readme-stats.vercel.app/api/pin/?username=YOUR_USERNAME&repo=REPO_NAME_1&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00f5ff&icon_color=ff00e6&text_color=c9d1d9" /></a>
 <a href="https://github.com/YOUR_USERNAME/REPO_NAME_2"><img src="https://github-readme-stats.vercel.app/api/pin/?username=YOUR_USERNAME&repo=REPO_NAME_2&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00f5ff&icon_color=ff00e6&text_color=c9d1d9" /></a>
 
 <a href="https://github.com/YOUR_USERNAME/REPO_NAME_3"><img src="https://github-readme-stats.vercel.app/api/pin/?username=YOUR_USERNAME&repo=REPO_NAME_3&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00f5ff&icon_color=ff00e6&text_color=c9d1d9" /></a>
@@ -121,7 +121,7 @@ status:     Open to feedback, suggestions & collaboration
 
 </div>
 
-<img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/main/assets/divider.svg" width="100%" alt="" />
+<img src="https://raw.githubusercontent.com/mohammadamanullah123/mohammadamanullah123/main/divider.svg" width="100%" alt="" />
 
 <!-- ═══════════════════════ FUN / GOALS ═══════════════════════ -->
 ## `> cat ./goals.txt`
@@ -141,7 +141,7 @@ status:     Open to feedback, suggestions & collaboration
 
 </div>
 
-<img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/main/assets/divider.svg" width="100%" alt="" />
+<img src="https://raw.githubusercontent.com/mohammadamanullah123/mohammadamanullah123/main/divider.svg" width="100%" alt="" />
 
 <!-- ═══════════════════════ CONNECT ═══════════════════════ -->
 ## `> ./connect --with-me`
@@ -162,4 +162,4 @@ status:     Open to feedback, suggestions & collaboration
 </div>
 
 <!-- ═══════════════════════ FOOTER ═══════════════════════ -->
-<img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/main/assets/footer.svg" width="100%" alt="footer" />
+<img src="https://raw.githubusercontent.com/mohammadamanullah123/mohammadamanullah123/main/footer.svg" width="100%" alt="footer" />
