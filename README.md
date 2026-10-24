@@ -3,8 +3,8 @@
 
 <img src="https://raw.githubusercontent.com/mohammadamanullah123/mohammadamanullah123/main/banner.svg" width="100%" alt="Amanullah banner" />
 
-<a href="[https://github.com/YOUR_USERNAME](https://github.com/mohammadamanullah123)">
-  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=600&size=22&pause=1000&color=00F5FF&center=true&vCenter=true&width=700&height=50&lines=%3E+Hello+World%2C+I'm+Amanullah+%F0%9F%91%8B;%3E+CSE+Student+%7C+Gulzar+Group+of+Institutions;%3E+Exploring+AI+%26+Systems+Design;%3E+Building+quick+hacks+%26+software+solutions;%3E+Always+learning%2C+always+shipping+%F0%9F%9A%80" alt="Typing SVG" />
+<a href="https://github.com/mohammadamanullah123">
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=600&size=22&pause=1000&color=00F5FF&center=true&vCenter=true&width=950&height=50&lines=%3E+Hello+World%2C+I'm+Amanullah+%F0%9F%91%8B;%3E+CSE+Student+%7C+Gulzar+Group+of+Institutions;%3E+Exploring+AI+%26+Systems+Design;%3E+Building+quick+hacks+%26+software+solutions;%3E+Always+learning%2C+always+shipping+%F0%9F%9A%80" alt="Typing SVG" />
 </a>
 
 <br/><br/>
@@ -27,6 +27,7 @@
 <!-- ═══════════════════════ ABOUT ═══════════════════════ -->
 ## `> whoami`
 
+```yaml
 name:       Amanullah
 role:       Computer Science & Engineering Student
 university: Gulzar Group of Institutions
@@ -34,6 +35,7 @@ focus:      [Artificial Intelligence, Systems Design, Software Development]
 hobbies:    [History, Geography, Political Science]
 mission:    Explore new tech, build software solutions & quick hacks
 status:     Open to feedback, suggestions & collaboration
+```
 
 <img src="https://raw.githubusercontent.com/mohammadamanullah123/mohammadamanullah123/main/divider.svg" width="100%" alt="" />
 
@@ -86,12 +88,11 @@ status:     Open to feedback, suggestions & collaboration
 
 <div align="center">
 
-<!-- 👉 Replace REPO_NAME_1 / REPO_NAME_2 / ... with your real repository names -->
-<a href="[https://github.com/mohammadamanullah123/mohammadamanullah123](https://github.com/mohammadamanullah123/India-in-the-world)"><img src="https://github-readme-stats.vercel.app/api/pin/?username=mohammadamanullah123&repo=India-in-the-world&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00f5ff&icon_color=ff00e6&text_color=c9d1d9" /></a>
-<a href="[https://github.com/YOUR_USERNAME/REPO_NAME_2](https://github.com/mohammadamanullah123/Advanced_Qr_Code_Fraud_Detection)"><img src="https://github-readme-stats.vercel.app/api/pin/?username=mohammadamanullah123&repo=Advanced_Qr_Code_Fraud_Detection&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00f5ff&icon_color=ff00e6&text_color=c9d1d9" /></a>
+<a href="https://github.com/mohammadamanullah123/India-in-the-world"><img src="https://github-readme-stats.vercel.app/api/pin/?username=mohammadamanullah123&repo=India-in-the-world&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00f5ff&icon_color=ff00e6&text_color=c9d1d9" /></a>
+<a href="https://github.com/mohammadamanullah123/Advanced_Qr_Code_Fraud_Detection"><img src="https://github-readme-stats.vercel.app/api/pin/?username=mohammadamanullah123&repo=Advanced_Qr_Code_Fraud_Detection&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00f5ff&icon_color=ff00e6&text_color=c9d1d9" /></a>
 
-<a href="[https://github.com/YOUR_USERNAME/REPO_NAME_3](https://github.com/mohammadamanullah123/hostel_management_project)"><img src="https://github-readme-stats.vercel.app/api/pin/?username=mohammadamanullah123&repo=hostel_management_project&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00f5ff&icon_color=ff00e6&text_color=c9d1d9" /></a>
-<a href="[https://github.com/YOUR_USERNAME/REPO_NAME_4](https://github.com/mohammadamanullah123/healthcare-chatbot)"><img src="https://github-readme-stats.vercel.app/api/pin/?username=mohammadamanullah123&repo=healthcare-chatbot&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00f5ff&icon_color=ff00e6&text_color=c9d1d9" /></a>
+<a href="https://github.com/mohammadamanullah123/hostel_management_project"><img src="https://github-readme-stats.vercel.app/api/pin/?username=mohammadamanullah123&repo=hostel_management_project&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00f5ff&icon_color=ff00e6&text_color=c9d1d9" /></a>
+<a href="https://github.com/mohammadamanullah123/healthcare-chatbot"><img src="https://github-readme-stats.vercel.app/api/pin/?username=mohammadamanullah123&repo=healthcare-chatbot&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00f5ff&icon_color=ff00e6&text_color=c9d1d9" /></a>
 
 </div>
 
@@ -111,20 +112,13 @@ status:     Open to feedback, suggestions & collaboration
 
 <br/><br/>
 
-<img src="https://github-profile-trophy.vercel.app/?username=mohammadamanullah123&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10&column=7" />
-
-<br/><br/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=mohammadamanullah123&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=00f5ff&line=ff00e6&point=ffffff" width="95%" />
+<img src="https://ghchart.rshah.org/00f5ff/mohammadamanullah123" width="95%" alt="Contribution chart" />
 
 </div>
 
 <img src="https://raw.githubusercontent.com/mohammadamanullah123/mohammadamanullah123/main/divider.svg" width="100%" alt="" />
 
-<!-- ═══════════════════════ FUN / GOALS ═══════════════════════ -->
-
-
-
+<!-- ═══════════════════════ QUOTE ═══════════════════════ -->
 <div align="center">
 
 > 💭 *"The best way to predict the future is to build it."*
