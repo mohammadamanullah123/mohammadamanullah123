@@ -3,15 +3,15 @@
 
 <img src="https://raw.githubusercontent.com/mohammadamanullah123/mohammadamanullah123/main/banner.svg" width="100%" alt="Amanullah banner" />
 
-<a href="https://github.com/YOUR_USERNAME">
+<a href="[https://github.com/YOUR_USERNAME](https://github.com/mohammadamanullah123)">
   <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=600&size=22&pause=1000&color=00F5FF&center=true&vCenter=true&width=700&height=50&lines=%3E+Hello+World%2C+I'm+Amanullah+%F0%9F%91%8B;%3E+CSE+Student+%7C+Gulzar+Group+of+Institutions;%3E+Exploring+AI+%26+Systems+Design;%3E+Building+quick+hacks+%26+software+solutions;%3E+Always+learning%2C+always+shipping+%F0%9F%9A%80" alt="Typing SVG" />
 </a>
 
 <br/><br/>
 
-![Profile Views](https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=PROFILE+VIEWS&color=00f5ff&style=for-the-badge&labelColor=0d1117)
-![Followers](https://img.shields.io/github/followers/YOUR_USERNAME?style=for-the-badge&logo=github&logoColor=ff00e6&labelColor=0d1117&color=ff00e6)
-![Stars](https://img.shields.io/github/stars/YOUR_USERNAME?style=for-the-badge&logo=github&logoColor=00f5ff&labelColor=0d1117&color=00f5ff)
+![Profile Views](https://komarev.com/ghpvc/?username=mohammadamanullah123&label=PROFILE+VIEWS&color=00f5ff&style=for-the-badge&labelColor=0d1117)
+![Followers](https://img.shields.io/github/followers/mohammadamanullah123?style=for-the-badge&logo=github&logoColor=ff00e6&labelColor=0d1117&color=ff00e6)
+![Stars](https://img.shields.io/github/stars/mohammadamanullah123?style=for-the-badge&logo=github&logoColor=00f5ff&labelColor=0d1117&color=00f5ff)
 
 <br/>
 
