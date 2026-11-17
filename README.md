@@ -88,11 +88,21 @@ status:     Open to feedback, suggestions & collaboration
 
 <div align="center">
 
-<a href="https://github.com/mohammadamanullah123/India-in-the-world"><img src="https://github-readme-stats.vercel.app/api/pin/?username=mohammadamanullah123&repo=India-in-the-world&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00f5ff&icon_color=ff00e6&text_color=c9d1d9" /></a>
-<a href="https://github.com/mohammadamanullah123/Advanced_Qr_Code_Fraud_Detection"><img src="https://github-readme-stats.vercel.app/api/pin/?username=mohammadamanullah123&repo=Advanced_Qr_Code_Fraud_Detection&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00f5ff&icon_color=ff00e6&text_color=c9d1d9" /></a>
+<a href="https://github.com/mohammadamanullah123/India-in-the-world">
+  <img src="https://github-stats-extended.vercel.app/api/pin/?username=mohammadamanullah123&repo=India-in-the-world&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00f5ff&icon_color=ff00e6&text_color=c9d1d9" />
+</a>
 
-<a href="https://github.com/mohammadamanullah123/hostel_management_project"><img src="https://github-readme-stats.vercel.app/api/pin/?username=mohammadamanullah123&repo=hostel_management_project&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00f5ff&icon_color=ff00e6&text_color=c9d1d9" /></a>
-<a href="https://github.com/mohammadamanullah123/healthcare-chatbot"><img src="https://github-readme-stats.vercel.app/api/pin/?username=mohammadamanullah123&repo=healthcare-chatbot&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00f5ff&icon_color=ff00e6&text_color=c9d1d9" /></a>
+<a href="https://github.com/mohammadamanullah123/Advanced_Qr_Code_Fraud_Detection">
+  <img src="https://github-stats-extended.vercel.app/api/pin/?username=mohammadamanullah123&repo=Advanced_Qr_Code_Fraud_Detection&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00f5ff&icon_color=ff00e6&text_color=c9d1d9" />
+</a>
+
+<a href="https://github.com/mohammadamanullah123/hostel_management_project">
+  <img src="https://github-stats-extended.vercel.app/api/pin/?username=mohammadamanullah123&repo=hostel_management_project&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00f5ff&icon_color=ff00e6&text_color=c9d1d9" />
+</a>
+
+<a href="https://github.com/mohammadamanullah123/healthcare-chatbot">
+  <img src="https://github-stats-extended.vercel.app/api/pin/?username=mohammadamanullah123&repo=healthcare-chatbot&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00f5ff&icon_color=ff00e6&text_color=c9d1d9" />
+</a>
 
 </div>
 
@@ -103,8 +113,11 @@ status:     Open to feedback, suggestions & collaboration
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=mohammadamanullah123&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00f5ff&icon_color=ff00e6&text_color=c9d1d9&include_all_commits=true&count_private=true" />
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohammadamanullah123&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00f5ff&text_color=c9d1d9" />
+<img height="180"
+src="https://github-stats-extended.vercel.app/api?username=mohammadamanullah123&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00f5ff&icon_color=ff00e6&text_color=c9d1d9&include_all_commits=true" />
+
+<img height="180"
+src="https://github-stats-extended.vercel.app/api/top-langs/?username=mohammadamanullah123&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00f5ff&text_color=c9d1d9" />
 
 <br/>
 
